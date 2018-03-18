@@ -1,0 +1,73 @@
+Tanggal perjanjian: "18 Maret 2018"
+
+Notaris/PPAT 
+Nama: "Notaris Hebat"
+Daerah kerja: "Jakarta Pusat"
+SK BPN: "1234567890"
+Alamat kantor: "Wisma GKBI, Bend. Hilir, Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta"
+Email: "hendraz_88@yahoo.co.id"
+Telpon: "081326174180"
+                                                           4
+Nomor AJB: "12345654321"
+
+Saksi "Saksi 1"
+Nama: "Paijo"
+Tempat tanggal lahir:"Jakarta" "1 Mei 1988"
+NIK: "32323232"
+Alamat NIK: "545454"
+Pekerjaan: "Driver Gojek"
+
+Pihak I (Penjual) "Penjual 1"
+Nama: "Juli"
+Tempat tanggal lahir "Jakarta"
+"3 Maret 1990"
+Pekerjaan: "Freelancer"
+NIK: "439202"
+Alamat domisili (NIK) "Blora"
+
+Pihak II (Pembeli) "Pembeli 1"
+Nama: "Ijul"
+Tempat tanggal lahir "Bogor" "1 Januari 1998"
+Pekerjaan: "Pembantu Rumah Tangga"
+NIK: "7676767"
+Alamat domisili (NIK):
+
+Obyek jual beli: "Tanah"
+Nomor sertifikat (NIB/Nomor Identifikasi Bidang Tanah): 
+"6565682389"
+Nomor surat ukur: "78232121"
+Tanggal surat ukur: "1 Februari 2011"
+Luas Tanah: "20 m2"
+Luas Bangunan: "15 m2"
+Nomor SPPT PBB/NOP/Nomor Obyek Pajak: 
+"2121"
+"232"
+Lokasi Obyek: "Bandung"
+Jalan: "Jalan Raden Patah no. 19B"
+Provinsi "Bandung"
+Kecamatan "Bandung"
+Kelurahan "Bandung"
+
+Harga "Seratus Miliar Rupiah"
+Validasi Pembayaran: "Tranfer"
+
+Pasal 1:
+Keuntungan dan kerugian atas obyek jual beli merupakan beban pihak 2
+
+Pasal 2:
+Jaminan pihak pertama tidak terikat pada utang, sengketa, tercatat dalam sertifikat dan bebas dari beban lain-lain apapun.
+
+Pasal 3:
+Jika terdapat perbedaan luas dari hasil pengukuran resmi BPN, maka para pihak menerima hasil tersebut tanpa memperhitungkan dengan perubahan harga jual beli atau saling menggugat.
+
+Pasal 4:
+Pihak ke 2 dan PPAT/kuasanya diberikan kuasa penuh untuk mengurus keperluan pendaftaran balik nama obyek jual beli sampai obyek tersebut menjadi milik pihak ke 2 (tercatat dalam sertifikat)
+
+
+Pasal 5:
+
+Penetapan kediaman hukum (kantor panitera/pengadilan)
+
+
+Pasal 6
+Biaya pembuatan akta, uang saksi, biaya peralihan hak dibayar oleh Pihak Kedua

@@ -1,0 +1,63 @@
+namespace org.accordproject.helloworld
+
+transaction Request {
+  o String input
+}
+
+transaction Response {
+  o String output
+}
+
+/**
+ * The template model
+ */
+@AccordTemplateModel("my-contract")
+concept TemplateModel {
+  /**
+   * The name for the clause
+   */
+  o String tanggalPerjanjian
+  o String namaNotaris
+  o String daerahKerja
+  o String skBpn
+  o String alamatKantor
+  o String emailNotaris
+  o String telponNotaris
+  o String noAjb
+  o String saksiSaksi
+  o String namaSaksi
+  o String tempatLahir
+  o String tanggalLahir
+  o String noNik
+  o String alamatNik
+  o String pekerjaanSaksi
+  o String pihakPenjual
+  o String namaPenjual
+  o String tempatLahirPejual
+  o String tanggalLahirPenjual
+  o String pekerjaanPenjual
+  o String nikPenjual
+  o String alamatDomisiliPenjual
+  o String pihakPembeli
+  o String namaPembeli
+  o String tempatLahirPembeli
+  o String tanggalLahirPembeli
+  o String pekerjaanPembeli
+  o String nikPembeli
+  o String obyekJualBeli
+  o String noIdentifikasiBidangTanah
+  o String noSuratUkur
+  o String tanggalSuratUkur
+  o String luasTanah
+  o String luasBangunan
+  o String noObyekPajak
+  o String noPbb
+  o String lokasiObyekJualBeli
+  o String jalanObyekJualBeli
+  o String provinsiObyekJualBeli
+  o String kecamatanObyekJualBeli
+  o String kelurahanObyekJualBeli
+  o String hargaObyekJualBeli
+  o String validasiPembayaran
+  
+}
